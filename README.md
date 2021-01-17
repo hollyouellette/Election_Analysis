@@ -66,6 +66,27 @@ The analysis of the election data (above) shows:
     - **Diana DeGette:** 73.8%
     - **Raymon Anthony Doane:** 3.1%
   - The winner of the election based on the popular vote was **Diana DeGette**, with a total of **272,892** votes, which comprised **73.8%** of the total votes.
+
+## Election Audit Summary
+
+After successfully using this script to audit the tabulated results for US congressional presinct in Colorado, with some modifications, it can be used for any election that determine's it's winner on the popular vote.
+
+  **Example #1**: Audit Election Data to destermine the results of US Presidential Primary Election 
+  This script can be modified to include the votes of States & Towns to determined the winner of the popular vote in the Presidential Primary Elections. This would require the addition of 
+  - lists and dictionaries for States & Towns 
+  - for loops to calculate voter turnout and percentage votes for each State and Town
+   
   
+  **Example #2***  Audit Election data to determine the results of a Canadian Federal Election
+  This script can be modified to audit to:
+  - connect each Member of Parliament to the Party Affiliation
+  - Determine the winning MP for each constituency in the House of Commons
+  - Calculate the total constituencies won for each political party
+  - Determine the winner of the election based on the popular vote (which party won the majority of consituencies in the House of Commons) 
+    
+   
+  
+  
+
  
  
