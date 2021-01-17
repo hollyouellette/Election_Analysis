@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit 
 
-Colorado Board of elections employee, Tom, required assisance in completing an election audit of the tabulated results for US congressional presinct in Colorado. From this audit, we were tasked to report the following:
+Colorado Board of elections employee, Tom, required assistance in completing an election audit of the tabulated results for US congressional precinct in Colorado. From this audit, we were tasked to report the following:
 
  - The total number of votes cast.
  - The voter turnout for each county.
@@ -10,13 +10,13 @@ Colorado Board of elections employee, Tom, required assisance in completing an e
  - The county with the highest turnout.
  - The total votes for each candidate.
  - The percentage votes for each candidate.
- - The winner of the election based on the populat vote.
+ - The winner of the election based on the popular vote.
  
  ## Election-Audit Results
  
  ### Resources
  
- To complete this audit, the Data Source used was _**election_results.csv**_ (located in the Resources/ folder of this respository). The sofware used to complete the analysis was _**Python 3.9, Visual Studio Code, 1.52.1**_. The Candidate and County Resultes have been saved in the _**election_results.txt**_ file localed in the analysis/ folder of this repository.
+ To complete this audit, the Data Source used was _**election_results.csv**_ (located in the Resources/ folder of this repository). The software used to complete the analysis was _**Python 3.9, Visual Studio Code, 1.52.1**_. The Candidate and County Results have been saved in the _**election_results.txt**_ file located in the analysis/ folder of this repository.
  
  ### Summary
   
@@ -56,7 +56,7 @@ The analysis of the election data (above) shows:
     - **Jefferson:** 10.5% of the total count
     - **Denver:** 82.8% of the total count
     - **Arapahoe:** 6.7% of the total count
-  - The county with the hight turnout was **Denver**.
+  - The county with the highest turnout was **Denver**.
   - Each candidate received the following number of votes:
     - **Charles Casper Stockham:** 85,213 votes
     - **Diana DeGette:** 272,892 votes
@@ -69,18 +69,18 @@ The analysis of the election data (above) shows:
 
 ## Election Audit Summary
 
-After successfully using this script to audit the tabulated results for US congressional presinct in Colorado, with some modifications, it can be used for any election. Such modifications could include adding additional lists and dictionaries to capture voter data outside of counties with subsequent additions of for loops to analyze the data within them. Another modification could be to modify the existing lists and dictionaries to represent and hold the geographical data of a different country/polical system that also determines the election winner based on the popular vote.
+After successfully using this script to audit the tabulated results for US congressional precinct in Colorado, with some modifications, it can be used for any election. Such modifications could include adding additional lists and dictionaries to capture voter data outside of counties with subsequent additions of for loops to analyze the data within them. Another modification could be to modify the existing lists and dictionaries to represent and hold the geographical data of a different country/political system that also determines the election winner based on the popular vote.
 
-  **Example #1**: Audit Election Data to destermine the results of US Presidential Primary Election 
+  **Example #1**: Audit Election Data to determine the results of US Presidential Primary Election 
   
-  This script can be modified so that it can audit the election data of a US Presidential Primary Election. This can be acccomplished by adding lists and dictionaries to hold the voter data from the States and Towns included in this election. After this, for loops can be added to the script to analyze and output the voter turnout and percentage votes from each state and town. 
+  This script can be modified so that it can audit the election data of a US Presidential Primary Election. This can be accomplished by adding lists and dictionaries to hold the voter data from the States and Towns included in this election. After this, for loops can be added to the script to analyze and output the voter turnout and percentage votes from each state and town. 
   
   **Example #2**  Audit Election data to determine the results of a Canadian Federal Election
   
-  This script can be modified so that it can audit the election results of a Canadian Federal Election, where the data used to determine the election results is different than that of the US congressional presinct in Colorado. This can be acheived my making the following additions to the script:
+  This script can be modified so that it can audit the election results of a Canadian Federal Election, where the data used to determine the election results is different than that of the US congressional precinct in Colorado. This can be achieved my making the following additions to the script:
    - Groups each Member of Parliament (MP) with their Political Party.
-   - Determines the winning MP/Political Party for each constiuency in the House of Commons.
-   - Caculate's the total consituencies won for each Political Party and calculates this as a percentage of the total consituencies. 
-   - Determine's the winner of the Federal Election based on which Political Party won the majority of consituencies in the House of Commons. 
+   - Determines the winning MP/Political Party for each constituency in the House of Commons.
+   - Calculate's the total constituencies won for each Political Party and calculates this as a percentage of the total constituencies. 
+   - Determines the winner of the Federal Election based on which Political Party won the majority of constituencies in the House of Commons. 
 
  
