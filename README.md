@@ -20,6 +20,8 @@ Colorado Board of elections employee, Tom, required assisance in completing an e
  
  ### Summary
   
+   _Output from election_analysis.txt :_
+     
      Election Results
      -------------------------
      Total Votes: 369,711
@@ -43,8 +45,8 @@ Colorado Board of elections employee, Tom, required assisance in completing an e
      Winning Vote Count: 272,892
      Winning Percentage: 73.8%
      -------------------------
-
-The analysis of the election data (above) has shown that:
+  
+The analysis of the election data (above) shows:
   - There were 369,711 votes cast in this election. 
   - Each county saw the following voter turnout:
      - **Jefferson:** 38,855 voters
