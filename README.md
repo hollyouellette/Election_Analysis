@@ -16,7 +16,7 @@ Colorado Board of elections employee, Tom, required assistance in completing an 
  
  ### Resources
  
- To complete this audit, the Data Source used was _**election_results.csv**_ (located in the Resources/ folder of this repository). The software used to complete the analysis was _**Python 3.9, Visual Studio Code, 1.52.1**_. The Candidate and County Results have been saved in the _**election_results.txt**_ file located in the analysis/ folder of this repository.
+ To complete this audit, the Data Source used was _**election_results.csv**_ (located in the Resources/ folder of this repository). The software used to complete the analysis was _**Python 3.9, Visual Studio Code, 1.52.1**_. The Candidate and County Results have been saved in the _**election_analysis.txt**_ file located in the analysis/ folder of this repository.
  
  ### Summary
   
