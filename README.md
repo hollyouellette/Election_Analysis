@@ -60,7 +60,12 @@ The analysis of the election data (above) shows:
   - Each candidate received the following number of votes:
     - **Charles Casper Stockham:** 85,213 votes
     - **Diana DeGette:** 272,892 votes
-    - **
+    - **Raymon Anthony Doane:** 11,606 votes
+  - The percentage votes for each candidate were as follows:
+    - **Charles Casper Stockham:** 23.0%
+    - **Diana DeGette:** 73.8%
+    - **Raymon Anthony Doane:** 3.1%
+  - The winner of the election based on the popular vote as **Diana DeGette**.
   
  
  
