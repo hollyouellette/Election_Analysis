@@ -69,16 +69,15 @@ The analysis of the election data (above) shows:
 
 ## Election Audit Summary
 
-After successfully using this script to audit the tabulated results for US congressional presinct in Colorado, with some modifications, it can be used for any election that determine's it's winner on the popular vote.
+After successfully using this script to audit the tabulated results for US congressional presinct in Colorado, with some modifications, it can be used for any election. Such modifications could include adding additional lists and dictionaries to capture voter data outside of counties with subsequent additions of for loops to analyze the data within them. Another modification could be to modify the existing lists and dictionaries to represent and hold the geographical data of a different country/polical system that also determines the election winner based on the popular vote.
 
   **Example #1**: Audit Election Data to destermine the results of US Presidential Primary Election 
-  This script can be modified to include the votes of States & Towns to determined the winner of the popular vote in the Presidential Primary Elections. This would require the addition of 
-  - lists and dictionaries for States & Towns 
-  - for loops to calculate voter turnout and percentage votes for each State and Town
-   
   
-  **Example #2***  Audit Election data to determine the results of a Canadian Federal Election
-  This script can be modified to audit to:
+  This script can be modified so that it can audit the election data of a US Presidential Primary Election. This can be acccomplished by adding lists and dictionaries to hold the voter data from the States and Towns included in this election. After this, for loops can be added to the script to analyze and output the voter turnout and percentage votes from each state and town. 
+  
+  **Example #2**  Audit Election data to determine the results of a Canadian Federal Election
+  
+  This script can be modified so that it can audit the election results of a Canadian Federal Election, where the data used to determine the election results is different than that of the US congressional presinct in Colorado. 
   - connect each Member of Parliament to the Party Affiliation
   - Determine the winning MP for each constituency in the House of Commons
   - Calculate the total constituencies won for each political party
