@@ -77,8 +77,12 @@ After successfully using this script to audit the tabulated results for US congr
   
   **Example #2**  Audit Election data to determine the results of a Canadian Federal Election
   
-  This script can be modified so that it can audit the election results of a Canadian Federal Election, where the data used to determine the election results is different than that of the US congressional presinct in Colorado. 
-  - connect each Member of Parliament to the Party Affiliation
+  This script can be modified so that it can audit the election results of a Canadian Federal Election, where the data used to determine the election results is different than that of the US congressional presinct in Colorado. This can be acheived my making the following additions to the script:
+   - Groups each Member of Parliament (MP) with their Political Party
+   - Determines the winning MP/Political Party for each constiuency in the House of Commons
+   - Caculate's the total consituencies won for each Political Party and calculates this as a percentage of the total consituencies. 
+   - Determine's the winner of the Federal Election based on which Politicla Party won the majority 
+
   - Determine the winning MP for each constituency in the House of Commons
   - Calculate the total constituencies won for each political party
   - Determine the winner of the election based on the popular vote (which party won the majority of consituencies in the House of Commons) 
