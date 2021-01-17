@@ -65,7 +65,7 @@ The analysis of the election data (above) shows:
     - **Charles Casper Stockham:** 23.0%
     - **Diana DeGette:** 73.8%
     - **Raymon Anthony Doane:** 3.1%
-  - The winner of the election based on the popular vote as **Diana DeGette**.
+  - The winner of the election based on the popular vote was **Diana DeGette**, with a total of **272,892** votes, which comprised **73.8%** of the total votes.
   
  
  
