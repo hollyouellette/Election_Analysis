@@ -19,8 +19,32 @@ Colorado Board of elections employee, Tom, required assisance in completing an e
  To complete this audit, the Data Source used was _**election_results.csv**_ (located in the Resources/ folder of this respository). The sofware used to complete the analysis was _**Python 3.9, Visual Studio Code, 1.52.1**_. The Candidate and County Resultes have been saved in the _**election_results.txt**_ file localed in the analysis/ folder of this repository.
  
  ### Summary
- 
- The analysis of the election data has show that:
+  
+     Election Results
+     -------------------------
+     Total Votes: 369,711
+     -------------------------
+
+     County Votes:
+     Jefferson: 10.5% (38,855)
+
+     Denver: 82.8% (306,055)
+
+     Arapahoe: 6.7% (24,801)
+
+     -------------------------
+     Largest County Turnout: Denver
+     -------------------------
+     Charles Casper Stockham: 23.0% (85,213)
+     Diana DeGette: 73.8% (272,892)
+     Raymon Anthony Doane: 3.1% (11,606)
+     -------------------------
+     Winner: Diana DeGette
+     Winning Vote Count: 272,892
+     Winning Percentage: 73.8%
+     -------------------------
+
+The analysis of the election data (above) has shown that:
   - There were 369,711 votes cast in this election. 
   - Each county saw the following voter turnout:
      - **Jefferson:** 38,855 voters
@@ -32,6 +56,9 @@ Colorado Board of elections employee, Tom, required assisance in completing an e
     - **Arapahoe:** 6.7% of the total count
   - The county with the hight turnout was **Denver**.
   - Each candidate received the following number of votes:
+    - **Charles Casper Stockham:** 85,213 votes
+    - **Diana DeGette:** 272,892 votes
+    - **
   
  
  
