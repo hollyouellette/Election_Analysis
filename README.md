@@ -5,7 +5,7 @@
 Colorado Board of elections employee, Tom, required assisance in completing an election audit of the tabulated results for US congressional presinct in Colorado. From this audit, we were tasked to report the following:
 
  - The total number of votes cast.
- - The coter turnout for each county.
+ - The voter turnout for each county.
  - The percentage of votes from each county out of the total count.
  - The county with the highest turnout.
  - The total votes for each candidate.
@@ -20,6 +20,11 @@ Colorado Board of elections employee, Tom, required assisance in completing an e
  
  ### Summary
  
- The 
+ The analysis of the election data has show that:
+  - There were 369,711 votes cast in this election. 
+  - Each county saw the following voter turnout:
+     - Jefferson: 38,855 voters
+     - Denver: 306,055 voters
+     - Arapahoe: 24,801 voters
  
  
