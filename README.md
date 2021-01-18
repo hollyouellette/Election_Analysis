@@ -20,7 +20,7 @@ Colorado Board of elections employee, Tom, required assistance in completing an 
  
  ### Summary
   
-   _Output from election_analysis.txt :_
+   _Output from election_results.txt :_
      
      Election Results
      -------------------------
